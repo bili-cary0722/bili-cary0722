@@ -1,3 +1,13 @@
 # Hi!I'm Cary0722! my bilibili is Cary0722!
+![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bili-cary0722)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bili-cary0722)](https://github.com/bili-cary0722/bili-cary0722&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bili-cary0722)](https://github.com/bili-cary0722/bili-cary0722)
